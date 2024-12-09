@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "item_sphere_data_warehouse", "item_sphere_data_warehouse.dtproj", "{19114C78-23F9-45B5-91F0-0C048658B715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19114C78-23F9-45B5-91F0-0C048658B715}.Development|Default.ActiveCfg = Development
+		{19114C78-23F9-45B5-91F0-0C048658B715}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A9395B7-BB84-4EA8-9D52-EE6F089514AB}
+	EndGlobalSection
+EndGlobal
